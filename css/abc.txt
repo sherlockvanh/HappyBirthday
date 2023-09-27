@@ -1,0 +1,8 @@
+<p>Chúc mừng sinh nhật em.</p>
+      <p> Anh nghĩ tuổi 18 với em sẽ rất quan trọng, vì là tuổi mở ra chương tiếp theo của cuộc đời. Đây là khoảng thời gian mà em sẽ tập làm quen với cuộc sống sinh viên, tự lập và chắc hẳn sẽ phải đưa ra những quyết định lớn, mang theo cả những trách nhiệm mới cho riêng mình.
+        <p> Và, anh chúc em luôn sống mỗi ngày với đam mê và hoài bão, vươn lên với những ước mơ mà anh nghĩ em đã ấp ủ từ lâu. Hãy luôn tin tưởng vào khả năng của bản thân, lạc quan và yêu đời. 
+        Chúc em một ngày sinh nhật thật ý nghĩa.
+       </p>
+      </center>
+<p class="signed">..Thân gửi...
+    <br> Việt Anh
